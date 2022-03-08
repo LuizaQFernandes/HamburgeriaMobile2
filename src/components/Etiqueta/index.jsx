@@ -2,7 +2,6 @@ import React from 'react';
 import { Feather } from '@expo/vector-icons';
 import { View, Text, Pressable} from 'react-native';
 import {MotiView, useAnimationState} from 'moti'
-
 import { styles } from './styles';
 import { theme } from '../../styles/theme';
 
